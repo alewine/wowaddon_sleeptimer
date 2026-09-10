@@ -2,9 +2,17 @@ package-as: SleepTimer
 
 enable-nolib-creation: no
 
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
+
+license-output: LICENSE
+
 ignore:
+  - .git
   - .github
   - .gitignore
+  - .pkgmeta
   - CHANGELOG.md
   - README.md
   - media
