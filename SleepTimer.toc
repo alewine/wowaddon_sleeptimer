@@ -1,0 +1,14 @@
+## Interface: 20506
+## Title: SleepTimer
+## Notes: Shows what is controlling you and how long until it ends.
+## Author: Bill Alewine
+## Version: @project-version@
+## X-License: MIT
+## X-Website: https://github.com/alewine/wowaddon_sleeptimer
+## X-Curse-Project-ID: CURSEFORGE_ID
+## IconTexture: Interface\Icons\Spell_Nature_Polymorph
+## SavedVariables: SleepTimerDB
+
+Core.lua
+Detection.lua
+Options.lua

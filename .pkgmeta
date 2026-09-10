@@ -1,0 +1,10 @@
+package-as: SleepTimer
+
+enable-nolib-creation: no
+
+ignore:
+  - .github
+  - .gitignore
+  - CHANGELOG.md
+  - README.md
+  - media
