@@ -5,7 +5,6 @@
 ## Version: @project-version@
 ## X-License: MIT
 ## X-Website: https://github.com/alewine/wowaddon_sleeptimer
-## X-Curse-Project-ID: CURSEFORGE_ID
 ## IconTexture: Interface\Icons\Spell_Nature_Polymorph
 ## SavedVariables: SleepTimerDB
 
