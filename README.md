@@ -1,3 +1,5 @@
+<p align="center"><img src="logo.png" width="180" alt="SleepTimer logo"></p>
+
 # SleepTimer
 
 Shows what is controlling your character and counts down until control returns.

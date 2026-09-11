@@ -13,6 +13,5 @@ ignore:
   - .github
   - .gitignore
   - .pkgmeta
-  - CHANGELOG.md
-  - README.md
   - media
+  - logo.png
